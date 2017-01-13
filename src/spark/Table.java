@@ -1,0 +1,32 @@
+package spark;
+
+public enum Table {
+	 t_asset_package_loan_application_association,
+	 t_loan_application,
+	 t_loan_document,
+	 t_account,
+	 t_account_balance_detail,
+	 customer,
+	 t_posting_detail,
+	 t_customer_reg_invitation,
+	 user,
+	 t_oc_online_opration,
+	 t_contract_credit_line,
+	 t_credit_line_event,
+	 t_repayment_starter,
+	 t_repayment_detail,
+	 t_repayment_settlement_order,
+	 t_account_balance,
+	 t_payment_account_dtl,
+	 t_settlement_order,
+	 repayment_detail_setting,
+	 loan_details,
+	 t_contract,
+	 t_product,
+	 t_solution,
+	 p_contract_type,
+	 t_account_mapping_bank,
+	 t_oc_customer_verify,
+	 t_oc_customer_service,
+	 t_binary_data
+}
